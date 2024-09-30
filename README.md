@@ -9,7 +9,7 @@ crops-classification-cnn/
 │   └── test/            # Testing data
 │
 ├── models/
-│   └── cnn_crops_model.h5  # Saved Keras model
+│   └── CropModel.keras  # Saved Keras model
 ```
 
 # Crops Classification using CNN
